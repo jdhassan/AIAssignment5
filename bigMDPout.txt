@@ -1,0 +1,9 @@
+Reading mode...MDP
+Reading transition probabilities...
+0 P 1 G 3 P 1 1 G 3
+P G 0 P 0 2 0 P 0 0
+P P 0 P P 2 P 2 P 0
+P 2 0 P P 2 2 2 3 P
+1 1 0 3 3 3 3 3 P G
+Calculating average utility...
+Average utility per move: 0.00
